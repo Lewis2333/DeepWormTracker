@@ -1,6 +1,6 @@
 # DeepWormTracker
 
-## [overview]
+## [Overview]
 
 This is a computer vision based worm tracking system.
 
