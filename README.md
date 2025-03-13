@@ -1,5 +1,7 @@
-[overview]
--
+# DeepWormTracker
+
+## [overview]
+
 This is a computer vision based worm tracking system.
 
 The algorithm used in this project: yolo v8 pose & deepsort.
